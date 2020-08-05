@@ -78,7 +78,6 @@ def reconcile_countries_by_code(codeinfo, plot_countries, gdp_countries):
 
     return plot_dict, set(plot_set)
 
-
 def build_map_dict_by_code(gdpinfo, codeinfo, plot_countries, year):
     """
     Inputs:
